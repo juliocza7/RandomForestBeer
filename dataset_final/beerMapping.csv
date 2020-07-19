@@ -1,0 +1,177 @@
+Style,StyleID,Map,BJCP Mapping
+Altbier,1,Hybrid,AMBER BITTER EUROPEAN BEER
+Alternative Grain Beer,2,Hybrid,ALTERNATIVE FERMENTABLES BEER
+Alternative Sugar Beer,3,Hybrid,ALTERNATIVE FERMENTABLES BEER
+American Amber Ale,4,Pale Ale,AMBER AND BROWN AMERICAN BEER
+American Barleywine,5,Strong Ale,STRONG AMERICAN ALE
+American Brown Ale,6,Brown Ale,AMBER AND BROWN AMERICAN BEER
+American IPA,7,IPA,IPA
+American Lager,8,Pilsners and Pale Ales,STANDARD AMERICAN BEER
+American Light Lager,9,Pilsners and Pale Ales,STANDARD AMERICAN BEER
+American Pale Ale,10,Pale Ale,PALE AMERICAN ALE
+American Porter,11,Porter,AMERICAN PORTER AND STOUT
+American Stout,12,Stout,AMERICAN PORTER AND STOUT
+American Strong Ale,13,Strong Ale,STRONG AMERICAN ALE
+American Wheat Beer,14,Wheat Beer,STANDARD AMERICAN BEER
+American Wheat or Rye Beer,15,Wheat Beer,ALTERNATIVE FERMENTABLES BEER
+Apple Wine,16,None,
+Australian Sparkling Ale,17,,PALE COMMONWEALTH BEER
+Autumn Seasonal Beer,18,,SPICED BEER
+Baltic Porter,19,Porter,STRONG EUROPEAN BEER
+Belgian Blond Ale,20,Belgian,STRONG BELGIAN ALE
+Belgian Dark Strong Ale,21,,TRAPPIST ALE
+Belgian Dubbel,22,,TRAPPIST ALE
+Belgian Golden Strong Ale,23,,STRONG BELGIAN ALE
+Belgian Pale Ale,24,,BELGIAN ALE
+Belgian Specialty Ale,25,,SPECIALTY BEER
+Belgian Tripel,26,,TRAPPIST ALE
+Berliner Weisse,27,,EUROPEAN SOUR ALE
+Best Bitter,28,Pale Ale,BRITISH BITTER
+Bière de Garde,29,,BELGIAN ALE
+Blonde Ale,30,Pale Ale,PALE AMERICAN ALE
+Bohemian Pilsener,31,Pilsener,PALE BITTER EUROPEAN BEER
+Braggot,32,None,
+Brett Beer,33,,AMERICAN WILD ALE
+British Brown Ale,34,,BROWN BRITISH BEER
+British Golden Ale,35,,PALE COMMONWEALTH BEER
+British Strong Ale,36,,STRONG BRITISH ALE
+Brown Porter,37,,
+California Common,38,,AMBER AND BROWN AMERICAN BEER
+California Common Beer,39,,AMBER AND BROWN AMERICAN BEER
+Classic American Pilsner,40,,
+Classic Rauchbier,41,,
+Classic Style Smoked Beer,42,,SMOKED BEER
+Clone Beer,43,,SPECIALTY BEER
+Common Cider,44,None,
+Cream Ale,45,,STANDARD AMERICAN BEER
+Cyser (Apple Melomel),46,None,
+Czech Amber Lager,47,,CZECH LAGER
+Czech Dark Lager,48,,CZECH LAGER
+Czech Pale Lager,49,,CZECH LAGER
+Czech Premium Pale Lager,50,,CZECH LAGER
+Dusseldorf Altbier,51,,
+Dark American Lager,52,,
+Dark Mild,53,,BROWN BRITISH BEER
+Doppelbock,54,,STRONG EUROPEAN BEER
+Dortmunder Export,55,,
+Double IPA,56,,STRONG AMERICAN ALE
+Dry Mead,57,None,
+Dry Stout,58,,
+Dunkelweizen,59,Wheat Beer,GERMAN WHEAT BEER
+Dunkles Bock,60,,AMBER MALTY EUROPEAN LAGER
+Dunkles Weissbier,61,,GERMAN WHEAT BEER
+Eisbock,62,,STRONG EUROPEAN BEER
+English Barleywine,63,Strong Ale,STRONG BRITISH ALE
+English Cider,64,None,
+English IPA,65,,PALE COMMONWEALTH BEER
+English Porter,66,,BROWN BRITISH BEER
+Experimental Beer,67,,SPECIALTY BEER
+Extra Special/Strong Bitter (ESB),68,Pale Ale,BRITISH BITTER
+Festbier,69,,PALE MALTY EUROPEAN LAGER
+Flanders Brown Ale/Oud Bruin,70,,EUROPEAN SOUR ALE
+Flanders Red Ale,71,,EUROPEAN SOUR ALE
+Foreign Extra Stout,72,,DARK BRITISH BEER
+French Cider,73,None,
+Fruit and Spice Beer,74,,FRUIT BEER
+Fruit Beer,75,,FRUIT BEER
+Fruit Cider,76,None,
+Fruit Lambic,77,,EUROPEAN SOUR ALE
+German Helles Exportbier,78,,PALE BITTER EUROPEAN BEER
+German Leichtbier,79,,PALE BITTER EUROPEAN BEER
+German Pils,80,,PALE BITTER EUROPEAN BEER
+German Pilsner (Pils),81,,PALE BITTER EUROPEAN BEER
+Gose,82,,HISTORICAL BEER
+Gueuze,83,,EUROPEAN SOUR ALE
+Helles Bock,84,,PALE MALTY EUROPEAN LAGER
+Holiday/Winter Special Spiced Beer,85,,SPICED BEER
+Imperial IPA,86,,IPA
+Imperial Stout,87,,AMERICAN PORTER AND STOUT
+International Amber Lager,88,,INTERNATIONAL LAGER
+International Dark Lager,89,,INTERNATIONAL LAGER
+International Pale Lager,90,,INTERNATIONAL LAGER
+Irish Extra Stout,91,,IRISH BEER
+Irish Red Ale,92,,IRISH BEER
+Irish Stout,93,,IRISH BEER
+Kölsch,94,,PALE BITTER EUROPEAN BEER
+Kellerbier: Amber Kellerbier,95,,AMBER BITTER EUROPEAN BEER
+Kellerbier: Pale Kellerbier,96,,AMBER BITTER EUROPEAN BEER
+Kentucky Common,97,,HISTORICAL BEER
+Lambic,98,,EUROPEAN SOUR ALE
+Lichtenhainer,99,,HISTORICAL BEER
+Light American Lager,100,,STANDARD AMERICAN BEER
+London Brown Ale,101,,HISTORICAL BEER
+Märzen,102,,AMBER MALTY EUROPEAN LAGER
+Maibock/Helles Bock,103,,PALE MALTY EUROPEAN LAGER
+Metheglin,104,None,
+Mild,105,,
+Mixed-Fermentation Sour Beer,106,,AMERICAN WILD ALE
+Mixed-Style Beer,107,,SPECIALTY BEER
+Munich Dunkel,108,,DARK EUROPEAN LAGER
+Munich Helles,109,,PALE MALTY EUROPEAN LAGER
+New England Cider,110,None,
+N/A,111,,
+North German Altbier,112,,
+Northern English Brown,113,,
+Oatmeal Stout,114,,DARK BRITISH BEER
+Oktoberfest/Märzen,115,,AMBER MALTY EUROPEAN LAGER
+Old Ale,116,,STRONG BRITISH ALE
+Open Category Mead,117,None,
+Ordinary Bitter,118,Pale Ale,BRITISH BITTER
+Other Fruit Melomel,119,None,
+Other Smoked Beer,120,,SMOKED BEER
+Other Specialty Cider or Perry,121,None,
+Oud Bruin,122,,EUROPEAN SOUR ALE
+Piwo Grodziskie,123,,HISTORICAL BEER
+Premium American Lager,124,,STANDARD AMERICAN BEER
+Pre-Prohibition Lager,125,,HISTORICAL BEER
+Pre-Prohibition Porter,126,,HISTORICAL BEER
+Pyment (Grape Melomel),127,None,
+Rauchbier,128,,AMBER MALTY EUROPEAN LAGER
+Robust Porter,129,,AMERICAN PORTER AND STOUT
+Roggenbier,130,,HISTORICAL BEER
+Roggenbier (German Rye Beer),131,,HISTORICAL BEER
+Russian Imperial Stout,132,,
+Sahti,133,,HISTORICAL BEER
+Saison,134,,STRONG BELGIAN ALE
+Schwarzbier,135,,DARK EUROPEAN LAGER
+Scottish Export,136,,SCOTTISH ALE
+Scottish Export 80/-,137,,SCOTTISH ALE
+Scottish Heavy,138,,SCOTTISH ALE
+Scottish Heavy 70/-,139,,SCOTTISH ALE
+Scottish Light,140,,SCOTTISH ALE
+Scottish Light 60/-,141,,SCOTTISH ALE
+Semi-Sweet Mead,142,None,
+Southern English Brown,143,,
+Special/Best/Premium Bitter,144,Pale Ale,BRITISH BITTER
+Specialty Beer,145,,SPECIALTY BEER
+Specialty Fruit Beer,146,,FRUIT BEER
+Specialty IPA: Belgian IPA,147,,IPA
+Specialty IPA: Black IPA,148,,IPA
+Specialty IPA: Brown IPA,149,,IPA
+Specialty IPA: Red IPA,150,,IPA
+Specialty IPA: Rye IPA,151,,IPA
+Specialty IPA: White IPA,152,,IPA
+Specialty Smoked Beer,153,,SMOKED BEER
+Specialty Wood-Aged Beer,154,,WOOD BEER
+Spice Herb or Vegetable Beer,155,,SPICED BEER
+Standard American Lager,156,,STANDARD AMERICAN BEER
+Standard/Ordinary Bitter,157,Pale Ale,BRITISH BITTER
+Straight (Unblended) Lambic,158,,EUROPEAN SOUR ALE
+Strong Bitter,159,Pale Ale,BRITISH BITTER
+Strong Scotch Ale,160,,
+Sweet Mead,161,None,
+Sweet Stout,162,,DARK BRITISH BEER
+Traditional Bock,163,,
+Traditional Perry,164,None,
+Trappist Single,165,,TRAPPIST ALE
+Tropical Stout,166,,DARK BRITISH BEER
+Vienna Lager,167,,AMBER BITTER EUROPEAN BEER
+Wee Heavy,168,,STRONG BRITISH ALE
+Weissbier,169,,GERMAN WHEAT BEER
+Weizen/Weissbier,170,,GERMAN WHEAT BEER
+Weizenbock,171,,GERMAN WHEAT BEER
+Wheatwine,172,None,STRONG AMERICAN ALE
+Wild Specialty Beer,173,,AMERICAN WILD ALE
+Winter Seasonal Beer,174,,SPICED BEER
+Witbier,175,,BELGIAN ALE
+Wood-Aged Beer,176,,WOOD BEER
