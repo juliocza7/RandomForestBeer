@@ -334,7 +334,7 @@ plt.show()
 
 print(classification_report(y_test, y_test_preds))
 
-# Armazenar reporte de dados
+#Armazena o reporte de dados
 cr_df = pd.DataFrame(classification_report(y_test, y_test_preds, output_dict=True)).transpose()
 plt.figure(figsize=(12,6))
 plt.scatter(cr_df.support, cr_df['f1-score'])
