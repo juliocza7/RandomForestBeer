@@ -317,7 +317,7 @@ y_test_preds = rf_random_cv.predict(X_test)
 f1_test = f1_score(y_test, y_test_preds, average='weighted')
 print(f"{f1_test:.4f} F1-score em test dataset")
 
-# Produce a matriz de confusion
+# Cria a matriz de confusion
 cm = confusion_matrix(y_test, y_test_preds, labels=np.unique(y_test))
 
 # Armazena as etiquetas das categorias
@@ -334,7 +334,7 @@ plt.show()
 
 print(classification_report(y_test, y_test_preds))
 
-# Store classification report in data frame and look
+# Armazenar reporte de dados
 cr_df = pd.DataFrame(classification_report(y_test, y_test_preds, output_dict=True)).transpose()
 plt.figure(figsize=(12,6))
 plt.scatter(cr_df.support, cr_df['f1-score'])
